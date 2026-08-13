@@ -25,7 +25,7 @@ A simple URL shortener backend built with Flask and SQLite. The application acce
 - **app.py** — Flask application and API routes
 - **models.py** — URL database model
 - **extensions.py** — SQLAlchemy configuration
-- `requirements.txt` — Python dependencies
-- `.gitignore` — Files excluded from Git
-- `README.md` — Project documentation
-- `LICENSE` — MIT License
+- **requirements.txt** — Python dependencies
+- **.gitignore** — Files excluded from Git
+- **README.md** — Project documentation
+- **LICENSE** — MIT License
