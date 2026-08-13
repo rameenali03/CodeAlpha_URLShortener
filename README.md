@@ -22,9 +22,9 @@ A simple URL shortener backend built with Flask and SQLite. The application acce
 
 ## Project Structure
 
-- `app.py` — Flask application and API routes
-- `models.py` — URL database model
-- `extensions.py` — SQLAlchemy configuration
+- **app.py** — Flask application and API routes
+- **models.py** — URL database model
+- **extensions.py** — SQLAlchemy configuration
 - `requirements.txt` — Python dependencies
 - `.gitignore` — Files excluded from Git
 - `README.md` — Project documentation
