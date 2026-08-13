@@ -3,7 +3,6 @@
 A simple URL shortener backend built with Flask and SQLite. The application accepts long URLs through a REST API, generates unique short codes, stores the URL mappings in a database, and redirects users from the generated short URL to the original URL.
 
 ## Features
-
 - Create short URLs through a REST API
 - Generate unique 6-character short codes
 - Store URL mappings using SQLite and SQLAlchemy
