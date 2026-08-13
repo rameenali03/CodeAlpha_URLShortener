@@ -31,4 +31,5 @@ CodeAlpha_URLShortener/
 ├── extensions.py
 ├── requirements.txt
 ├── .gitignore
-└── README.md
+├── README.md
+└── LICENSE
